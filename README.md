@@ -184,7 +184,7 @@ Key facts the CEH exam tests directly from this module:
 | TCP traceroute purpose | Bypasses firewalls that block ICMP |
 | Google dork — file type | `filetype:pdf site:target.com` |
 | Google dork — title | `intitle:"index of"` |
-| GHDB location | exploit-db.com/google-hacking-database |
+| GHDB location | [exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database) |
 
 ---
 
